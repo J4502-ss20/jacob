@@ -41,7 +41,7 @@ ul {
   justify-content: space-between;
 }
 
-@media (min-width:600px) {
+@media (min-width:800px) {
   .container {
     display: flex;
     flex-direction: row;
