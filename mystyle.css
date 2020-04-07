@@ -19,7 +19,7 @@ p {
   text-align: left;
 }
 
-a: img {
+a img {
   border: 0;
 }
 
@@ -52,10 +52,6 @@ ul {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-between;
-  }
-
-  .lorem {
-    align-self: left;
   }
 
 .lorem {grid-area: a;}
