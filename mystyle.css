@@ -132,3 +132,18 @@ a:visited {
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (min-width: 700px) {
+
+  nav ul{
+    display: flex;
+  }
+
+  nav ul li{
+    border-top: none;
+  }
+
+  .menu-trigger{
+    display: none;
+  }
+}
